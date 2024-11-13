@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(146, 128, 162);
+}
+.container{
+  background-color: antiquewhite;
+}
+.counter{
+  color: rgb(114, 24, 132);
+}
+.button{
+  background-color: rgb(128, 97, 158);
+  border-color: white;
+  border-radius: 10px;
+}
